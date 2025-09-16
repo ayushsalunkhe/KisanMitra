@@ -130,7 +130,7 @@ html.dark {
     @apply border-border;
     }
   body {
-    transition: background-color 0.3s ease, color 0.3s ease;
+    @apply bg-background text-foreground;
     }
   html {
     scroll-behavior: smooth;
@@ -165,13 +165,6 @@ html.dark {
 
 .dark ::-webkit-scrollbar-thumb:hover {
   background: rgb(51 65 85); /* slate-700 for dark */
-}
-
-/* Smooth transitions */
-* {
-  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-duration: 200ms;
 }
 
 /* Focus visible */
