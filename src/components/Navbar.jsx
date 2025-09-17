@@ -20,7 +20,7 @@ const Navbar = ({
               <span className="text-white font-bold text-xl">K</span>
             </div>
             <div>
-              <h1 className="text-xl font-bold text-slate-900 dark:text-white">Kisan Mitra</h1>
+              <h1 className="text-xl font-bold text-slate-900 dark:text-white">PashuRaksha</h1>
               <p className="text-xs text-slate-600 dark:text-slate-400">Smart Farm Assistant</p>
             </div>
           </div>
