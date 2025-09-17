@@ -21,7 +21,7 @@ const Footer = ({ currentLanguage, setLanguage, languages, t }) => {
                 <span className="text-white font-bold text-xl">K</span>
               </div>
               <div>
-                <h3 className="text-xl font-bold text-slate-900 dark:text-white">Kisan Mitra</h3>
+                <h3 className="text-xl font-bold text-slate-900 dark:text-white">PashuRaksha</h3>
                 <p className="text-sm text-slate-600 dark:text-slate-400">Smart Farm Assistant</p>
               </div>
             </div>
@@ -147,7 +147,7 @@ const Footer = ({ currentLanguage, setLanguage, languages, t }) => {
               <div className="space-y-3">
                 <div className="flex items-center text-slate-400">
                   <Mail className="w-4 h-4 mr-3" />
-                  <span className="text-sm">support@kisanmitra.com</span>
+                  <span className="text-sm">support@pashuraksha.com</span>
                 </div>
                 <div className="flex items-center text-slate-400">
                   <Phone className="w-4 h-4 mr-3" />
@@ -166,7 +166,7 @@ const Footer = ({ currentLanguage, setLanguage, languages, t }) => {
         <div className="mt-16 pt-8 border-t border-slate-700/50">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex items-center space-x-6 text-sm text-slate-400">
-              <span>© 2024 Kisan Mitra</span>
+              <span>© 2025 PashuRaksha</span>
               <span>•</span>
               <span>Version 1.0.0</span>
               <span>•</span>
